@@ -1,4 +1,4 @@
-# Homework - Simple Classes
+# Simple Classes
 
 Create 3 single classes with methods to perform some functionality.
 
